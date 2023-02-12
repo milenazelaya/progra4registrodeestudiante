@@ -1,0 +1,77 @@
+.card{
+  right: -20px; /* mover 20px desde la parte derecha */
+  margin: 4px;
+  height: 640px;
+  color: rgb(255, 251, 251) ;
+  background-color: rgba(21, 68, 169, 0.833);
+}
+
+
+input[type="text"] {    
+    background-color: #2e5096; /* ESTO ES DE LOS IMPUT Y TEXTO DE LOS IMPUT */
+    color: rgb(8, 8, 8);
+  }
+
+ 
+
+  .colorSelect {
+    background-color: #2e5096; /* ESTO ES CAJON DE GENERO COLOR Y TEXTO */
+    color: rgb(8, 8, 8);
+  }
+
+  .formulario1 {
+    background-color: #5f92ac;
+    padding: 20px;
+    border-radius: 10px;
+  }
+
+  .btnGuardar {
+    float: right;
+    margin-right: 30px;
+    background-color: #000000;
+    height: 50px;
+    width: 100px;
+    margin-top: 10px;
+    }
+
+    .btnNuevo {
+        float: left;
+        margin-left: 50px;
+        background-color: #000000;
+        height: 50px;
+        width: 100px;
+        margin-top: 10px;
+        }
+
+        body {
+            background-image: url('https://images.unsplash.com/photo-1530533718754-001d2668365a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-attachment: fixed;   
+            }
+
+            table th,
+            table td {
+              color: #fff8f8; /* aquí puedes especificar el color que desees */
+            }
+
+
+            .card1{
+              position: absolute;
+              left: 620px; /* mover 120px desde la parte izquierda */
+              height: 300px; /* aquí puedes especificar la altura que desees en píxeles */
+              top: 20px; /* Ajusta este valor para moverlo arriba o abajo */             
+              color: rgb(255, 251, 251);
+              background-color: rgba(14, 40, 97, 0.833);
+             
+
+              
+              
+              color: rgb(255, 251, 251) ;
+              background-color: rgba(14, 40, 97, 0.833);
+            }
+            
+            
+          
+           
+            
